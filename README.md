@@ -11,7 +11,7 @@ Skilled in **Python**, **Java**, and full-cycle software development. I've helpe
 🚀 **Current Projects**  
 - **Skin Care Product Sale System** – E-commerce platform with personalized recommendations  
 - **AmbuTrack System** – Real-time ambulance tracking for emergency response
-
+- 
 📊 **Interests**  
 Data analysis, system design, backend development, and crafting tools that make a difference.
 
@@ -95,14 +95,11 @@ Always sharpening my skills — currently exploring advanced backend architectur
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Joyal01-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+  <img src="https://streak-stats.demolab.com/?user=Joyal01-01&theme=dark&hide_border=true"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Joyal01-01&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyal01-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
+</div>
 
 ## 📫 Let's Connect
 
