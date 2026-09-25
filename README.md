@@ -108,17 +108,21 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
+      <p><strong>Top language by commit</strong></p>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joyal01-01&theme=github_dark" alt="Most Commit Language" width="100%" />
     </td>
     <td width="50%" align="center">
+      <p><strong>Top languages by repo</strong></p>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joyal01-01&theme=github_dark" alt="Repositories Per Language" width="100%" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
+      <p><strong>Commits</strong></p>
       <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joyal01-01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="Joyal Poudel GitHub Statistics" width="100%" />
     </td>
     <td width="50%" align="center">
+      <p><strong>Stats</strong></p>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joyal01-01&theme=github_dark" alt="GitHub Summary Statistics" width="100%" />
     </td>
   </tr>
