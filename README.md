@@ -6,8 +6,8 @@
 <img src="https://komarev.com/ghpvc/?username=Joyal01-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
-<img src="https://github-profile-trophy-ruddy.vercel.app/?username=Joyal01-01&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" width="100%" />
+<p align="center">
+<img src="https://github-profile-trophy-ruddy.vercel.app/?username=Joyal01-01&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Profile Trophy" width="100%" />
 </p>
 
 <div>
@@ -41,9 +41,18 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p align="left"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyal01-01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" /></p>
-<p align="left"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joyal01-01&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" /></p>
-<p align="left"><img src="https://streak-stats.demolab.com?user=Joyal01-01&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" /></p>
+<p align="center"><strong>⭐ GitHub Overview</strong></p>
+<p align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyal01-01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joyal01-01&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" />
+<br />
+<img src="https://streak-stats.demolab.com?user=Joyal01-01&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJoyal01-01&query=%24.public_repos&label=Public%20repositories&color=58a6ff&style=for-the-badge" alt="Public repositories" />
+<img src="https://img.shields.io/github/followers/Joyal01-01?style=for-the-badge&label=Followers" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=Joyal01-01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
 <img src="./assets/profile-animation.gif" alt="Decorative profile animation" width="100%" />
 
