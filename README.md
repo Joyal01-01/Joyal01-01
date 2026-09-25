@@ -79,39 +79,13 @@
 <div align="center">
   <a href="https://github.com/Joyal01-01">
 
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joyal01-01&theme=github_dark"
-      alt="GitHub Profile Summary Statistics"
-      width="49%"
-    />
-
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joyal01-01&theme=github_dark"
-      alt="Most Commit Language"
-      width="49%"
-    />
-
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joyal01-01&theme=github_dark" alt="GitHub Profile Summary Statistics" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joyal01-01&theme=github_dark" alt="Most Commit Language" width="49%" />
     <br />
-
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joyal01-01&theme=github_dark"
-      alt="Repositories Per Language"
-      width="49%"
-    />
-
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joyal01-01&theme=github_dark&utcOffset=5.75"
-      alt="Productive Time"
-      width="49%"
-    />
-
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joyal01-01&theme=github_dark" alt="Repositories Per Language" width="49%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joyal01-01&theme=github_dark&utcOffset=5.75" alt="Productive Time" width="49%" />
     <br />
-
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joyal01-01&theme=github_dark"
-      alt="GitHub Profile Details"
-      width="100%"
-    />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joyal01-01&theme=github_dark" alt="GitHub Profile Details" width="100%" />
 
   </a>
 </div>
