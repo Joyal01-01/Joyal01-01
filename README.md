@@ -72,83 +72,59 @@
 
 <img src="./assets/profile-animation.gif" alt="Decorative profile animation" width="100%" />
 
-<!-- ==================== GITHUB STATISTICS ==================== -->
+<!-- GitHub Analytics Header -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-  <em>Code, contributions, languages, and GitHub activity</em>
-</p>
-
-<!-- GitHub Stats + Top Languages -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joyal01-01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark"
-    alt="Joyal Poudel GitHub Statistics"
-    width="49%"
-  />
-
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyal01-01&layout=compact&langs_count=10&hide_border=true&theme=dark"
-    alt="Joyal Poudel Top Programming Languages"
-    width="49%"
-  />
+  <em>Code activity · Languages · Contributions · Development insights</em>
 </p>
 
-<!-- Contribution Streak -->
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Joyal01-01&theme=dark&hide_border=true"
-    alt="Joyal Poudel GitHub Contribution Streak"
-    width="100%"
-  />
-</p>
-
-<!-- Contribution Profile / Activity -->
+<!-- Yearly Contribution -->
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joyal01-01&theme=github_dark"
-    alt="Joyal Poudel GitHub Contribution Profile"
+    alt="Joyal Poudel GitHub Contribution Activity"
     width="100%"
   />
 </p>
 
-<!-- Language Analytics -->
+<!-- Developer Analytics Grid -->
 
+<h3 align="center">⚡ Developer Snapshot</h3>
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joyal01-01&theme=github_dark"
-    alt="Most Commit Language"
-    width="49%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joyal01-01&theme=github_dark"
-    alt="Repositories Per Language"
-    width="49%"
-  />
+  <strong>Joyal Poudel</strong><br />
+  <em>Full Stack Developer</em><br />
+  React · Node.js · Django · MySQL<br />
+  <span>Building practical web applications and software solutions</span>
 </p>
 
-<!-- Productivity + Summary -->
-
+<h3 align="center">Developer Analytics</h3>
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joyal01-01&theme=github_dark&utcOffset=5.75"
-    alt="Productive Coding Time"
-    width="49%"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joyal01-01&theme=github_dark"
-    alt="GitHub Summary Statistics"
-    width="49%"
-  />
+  <em>Repository and contribution breakdown</em>
 </p>
 
-<!-- ==================== END GITHUB STATISTICS ==================== -->
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joyal01-01&theme=github_dark" alt="Most Commit Language" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joyal01-01&theme=github_dark" alt="Repositories Per Language" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joyal01-01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="Joyal Poudel GitHub Statistics" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joyal01-01&theme=github_dark" alt="GitHub Summary Statistics" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!-- End GitHub Analytics -->
 
 <!-- ==================== FOOTER ==================== -->
 
