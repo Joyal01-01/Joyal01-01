@@ -1,13 +1,13 @@
-<img src="./assets/top-banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/bottom_header.svg" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Joyal Poudel</h1>
 
 <p align="left">
-<img src="./assets/profile-views.svg" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Joyal01-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
-<img src="./assets/trophies.svg" alt="GitHub Trophies" width="100%" />
+<img src="https://github-profile-trophy-ruddy.vercel.app/?username=Joyal01-01&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" width="100%" />
 </p>
 
 <div>
@@ -41,21 +41,23 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p align="left"><img src="./assets/top-languages.svg" alt="Top Languages" width="49%" /></p>
-<p align="left"><img src="./assets/github-stats.svg" alt="GitHub Statistics" width="49%" /></p>
-<p align="left"><img src="./assets/streak.svg" alt="GitHub Streak" width="49%" /></p>
+<p align="left"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyal01-01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" /></p>
+<p align="left"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joyal01-01&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" /></p>
+<p align="left"><img src="https://streak-stats.demolab.com?user=Joyal01-01&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" /></p>
 
 <img src="./assets/profile-animation.gif" alt="Decorative profile animation" width="100%" />
 
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/Joyal01-01">
-<img src="./assets/github-stats.svg" alt="GitHub Stats" width="49%" />
-<img src="./assets/top-languages.svg" alt="Top Languages" width="49%" />
-<img src="./assets/repository-languages.svg" alt="Repository Languages" width="49%" />
-<img src="./assets/productive-time.svg" alt="Productive Time" width="49%" />
-<img src="./assets/profile-details.svg" alt="Profile Details" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joyal01-01&theme=github_dark" alt="GitHub Profile Summary Statistics" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joyal01-01&theme=github_dark" alt="Most Commit Language" width="49%" />
+<br />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joyal01-01&theme=github_dark" alt="Repositories Per Language" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joyal01-01&theme=github_dark&utcOffset=5.75" alt="Productive Time" width="49%" />
+<br />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joyal01-01&theme=github_dark" alt="Profile Details" width="100%" />
 </a>
 </div>
 
-<img src="./assets/bottom-banner.svg" alt="Decorative profile footer" width="100%" />
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/bottom_header.svg" alt="Decorative profile footer" width="100%" />
