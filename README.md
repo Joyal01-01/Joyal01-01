@@ -72,27 +72,71 @@
 
 <img src="./assets/profile-animation.gif" alt="Decorative profile animation" width="100%" />
 
-<!-- ==================== STATISTICS ==================== -->
+<!-- ==================== GITHUB STATISTICS ==================== -->
 
-<h3 align="center">Statistics</h3>
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<div align="center">
-  <a href="https://github.com/Joyal01-01">
+<p align="center">
+  <em>Code, contributions, languages, and GitHub activity</em>
+</p>
 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joyal01-01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" alt="GitHub Statistics" width="49%" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyal01-01&layout=compact&langs_count=10&hide_border=true&theme=dark" alt="Top Languages" width="49%" />
-    <br />
-    <img src="https://streak-stats.demolab.com?user=Joyal01-01&theme=dark&hide_border=true" alt="GitHub Contribution Streak" width="100%" />
-    <br />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joyal01-01&theme=github_dark" alt="GitHub Profile Details" width="100%" />
-    <br />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joyal01-01&theme=github_dark" alt="Most Commit Language" width="49%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joyal01-01&theme=github_dark" alt="Repositories Per Language" width="49%" />
-    <br />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joyal01-01&theme=github_dark&utcOffset=5.75" alt="Productive Time" width="49%" />
+<p align="center">
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joyal01-01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark"
+    alt="Joyal Poudel GitHub Statistics"
+    width="49%"
+  />
 
-  </a>
-</div>
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyal01-01&layout=compact&langs_count=10&hide_border=true&theme=dark"
+    alt="Joyal Poudel Top Programming Languages"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Joyal01-01&theme=dark&hide_border=true"
+    alt="Joyal Poudel GitHub Contribution Streak"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joyal01-01&theme=github_dark"
+    alt="Joyal Poudel GitHub Contribution Profile"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joyal01-01&theme=github_dark"
+    alt="Most Commit Language"
+    width="49%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joyal01-01&theme=github_dark"
+    alt="Repositories Per Language"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joyal01-01&theme=github_dark&utcOffset=5.75"
+    alt="Productive Coding Time"
+    width="49%"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joyal01-01&theme=github_dark"
+    alt="GitHub Summary Statistics"
+    width="49%"
+  />
+</p>
 
 <!-- ==================== FOOTER ==================== -->
 
