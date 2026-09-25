@@ -80,6 +80,8 @@
   <em>Code, contributions, languages, and GitHub activity</em>
 </p>
 
+<!-- GitHub Stats + Top Languages -->
+
 <p align="center">
   <img
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joyal01-01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark"
@@ -94,6 +96,8 @@
   />
 </p>
 
+<!-- Contribution Streak -->
+
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Joyal01-01&theme=dark&hide_border=true"
@@ -102,6 +106,8 @@
   />
 </p>
 
+<!-- Contribution Profile / Activity -->
+
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joyal01-01&theme=github_dark"
@@ -109,6 +115,8 @@
     width="100%"
   />
 </p>
+
+<!-- Language Analytics -->
 
 <p align="center">
   <img
@@ -124,6 +132,8 @@
   />
 </p>
 
+<!-- Productivity + Summary -->
+
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joyal01-01&theme=github_dark&utcOffset=5.75"
@@ -137,6 +147,8 @@
     width="49%"
   />
 </p>
+
+<!-- ==================== END GITHUB STATISTICS ==================== -->
 
 <!-- ==================== FOOTER ==================== -->
 
