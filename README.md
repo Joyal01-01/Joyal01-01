@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/bottom_header.svg" width="100%" />
+<!-- markdownlint-disable MD033 MD041 -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/main/bottom_header.svg" alt="Decorative profile banner" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Joyal Poudel</h1>
 
@@ -40,18 +41,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<p align="center"><strong>⭐ GitHub Overview</strong></p>
+<h2 align="center">⚡ Developer Command Center</h2>
+<p align="center"><em>Joyal Poudel · Building with web and software technologies</em></p>
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joyal01-01&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Joyal01-01&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" />
-<br />
-<img src="https://streak-stats.demolab.com?user=Joyal01-01&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
+JavaScript · React · Node.js · Express.js · MySQL · Python · Django · Java
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJoyal01-01&query=%24.public_repos&label=Public%20repositories&color=58a6ff&style=for-the-badge" alt="Public repositories" />
-<img src="https://img.shields.io/github/followers/Joyal01-01?style=for-the-badge&label=Followers" alt="Followers" />
-<img src="https://komarev.com/ghpvc/?username=Joyal01-01&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+<img src="./assets/developer-dashboard.svg" alt="Live GitHub developer dashboard" width="100%" />
 </p>
 
 <img src="./assets/profile-animation.gif" alt="Decorative profile animation" width="100%" />
