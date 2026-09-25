@@ -7,8 +7,9 @@
 <img src="https://komarev.com/ghpvc/?username=Joyal01-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+<h2 align="center">Developer Dashboard</h2>
 <p align="center">
-<img src="https://github-profile-trophy-ruddy.vercel.app/?username=Joyal01-01&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6" alt="GitHub Profile Trophy" width="100%" />
+<img src="./assets/developer-dashboard.svg" alt="Live GitHub developer dashboard" width="100%" />
 </p>
 
 <div>
